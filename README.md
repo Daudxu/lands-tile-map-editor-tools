@@ -1,6 +1,6 @@
 # lands-tile-map-editor-tools
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
